@@ -82,16 +82,11 @@ Certified System Developer with **8+ years** building robust software across pri
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hustree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hustree&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://komarev.com/ghpvc/?username=Hustree&style=flat-square&color=0a66c2&label=Profile%20Views" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hustree&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hustree&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=Hustree&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
