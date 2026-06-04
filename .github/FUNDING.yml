@@ -1,0 +1,6 @@
+# These links power the "Sponsor" button on the repository.
+# Enroll at https://github.com/sponsors to activate the line below, then uncomment it.
+# github: [Hustree]
+
+# Until GitHub Sponsors is enrolled, route supporters to hire/booking channels.
+custom: ["https://joshua-bascos.vercel.app/", "https://calendly.com/joshuabascos/15min"]
