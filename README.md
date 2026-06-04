@@ -35,16 +35,47 @@ Certified System Developer with **8+ years** building robust software across pri
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **LoanFlow Pro** | End-to-end loan application MVP with real WebAuthn passkeys, i18n, and full CI | React 19 · Vite · RTK · MSW | [Live](https://loanflow-pro.vercel.app) · [Code](https://github.com/Hustree/loanflow-pro) |
+| **Audit Trail** | System-wide audit log captured at the ORM boundary, with field-level diffs and one-click restore | .NET 9 · EF Core · Angular | [Code](https://github.com/Hustree/audit-trail) |
+| **E2E Payload Encryption** | End-to-end encrypted request/response payloads that survive TLS termination, proxies, and CDN logs | Quarkus · React | [Code](https://github.com/Hustree/e2e-payload-encryption-starter) |
+| **PDF e-Sign Starter** | Reference PDF e-signature flow, frontend to backend | Quarkus · React · TS | [Code](https://github.com/Hustree/pdf-esign-starter) |
+| **FormatTXT** | Published VS Code extension for smart, structure-preserving text formatting | TypeScript | [Marketplace](https://marketplace.visualstudio.com/items?itemName=joshuabascos.formattxt) · [Code](https://github.com/Hustree/formattxt-vsce) |
+| **Tech 4 Everyone** | Small, opinionated Angular 20 SPA, built to be read and extended by humans and AI agents | Angular 20 · Signals | [Live](https://hustree.github.io/tech-4-everyone/) · [Code](https://github.com/Hustree/tech-4-everyone) |
+
+---
+
 ### 🛠️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+**Backend & Data**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**DevOps & Tooling**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -52,7 +83,23 @@ Certified System Developer with **8+ years** building robust software across pri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hustree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hustree&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hustree&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hustree&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hustree&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hustree/Hustree/output/github-snake-dark.svg" alt="Contribution snake animation"/>
 </p>
 
 ---
