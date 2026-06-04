@@ -30,6 +30,7 @@ Certified System Developer with **8+ years** building robust software across pri
 - 🏦 Built FinTech systems processing **20M+ transactions/year**
 - 🚀 Engineered a startup product through a **$750K acquisition**
 - 🏛️ Delivered GovTech tools that cut process time by **50 to 75%**
+- 🧩 Shipped [**FormatTXT**](https://marketplace.visualstudio.com/items?itemName=joshuabascos.formattxt), a published VS Code extension for smart text formatting
 - 💬 Available for **technical consulting, architecture review, MVP development, and FinTech/payments work**
 
 ---
