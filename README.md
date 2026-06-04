@@ -3,7 +3,7 @@
 <p align="center">
   <b>Senior System Developer</b> · FinTech · GovTech · Startups<br/>
   <i>I build high-impact systems that process millions of transactions, power government services, and scale startups.</i><br/>
-  📍 Baguio City, Philippines · Working with remote teams globally
+  📍 Baguio City, Philippines (UTC+8) · Working with remote teams globally
 </p>
 
 <p align="center">
